@@ -1,6 +1,4 @@
-Here is a README file for your GitHub project:
 
----
 
 # BallNavigator: A Unity Game for Training Neural Networks
 
